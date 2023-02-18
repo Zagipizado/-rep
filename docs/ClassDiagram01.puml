@@ -1,4 +1,4 @@
-@startuml
+@startuml ClassDiagramm01
 actor A1 #Green
 entity E1
 Boundary B1
